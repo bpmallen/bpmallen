@@ -1,10 +1,8 @@
-# Hello World 👋, I'm Ben, a Junior Developer
+![Header](./banner_github.png)
+
+# 💫 About Me:
 
 🔭 I’m currently working on a book-app using React Native<br>🤝 I’m looking for help with finding my first Junior dev role<br>🌱 I’m currently learning about Data Structures and Algorithms<br>⚡ Fun fact: Flamenco music is my jam!
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-mallen10)
 
 # 💻 Tech Stack:
 
