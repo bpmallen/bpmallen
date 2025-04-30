@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World 👋,   I'm Ben,   a Junior Developer 
 🔭 I’m currently working on a book-app using React Native<br>🤝 I’m looking for help with finding my first Junior dev role<br>🌱 I’m currently learning about Data Structures and Algorithms<br>⚡ Fun fact: Flamenco music is my jam!
 
 
