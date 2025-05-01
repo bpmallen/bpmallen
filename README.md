@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on a book-app using React Native<br><br>🤝 I’m looking for help with finding my first Junior dev role<br><br>🌱 I’m currently learning about Data Structures and Algorithms<br><br>🎵 Flamenco music is my jam!
+🔭 I’m currently working on a bookstore-app using React Native<br><br>🤝 I’m looking for help with finding my first Junior dev role<br><br>🌱 I’m currently learning about Data Structures and Algorithms<br><br>🎵 Flamenco music is my jam!
 
 # 💻 Tech Stack:
 
